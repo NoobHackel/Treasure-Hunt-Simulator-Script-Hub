@@ -1,0 +1,2 @@
+-- Source : https://www.youtube.com/watch?v=B0y_fnFelMQ
+loadstring(game:HttpGet(('https://pastebin.com/raw/53mPvLum'),true))()
